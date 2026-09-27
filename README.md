@@ -1,4 +1,4 @@
-# Baby's Tower of Babel
+# Baby's Tower of Hanoi
 Simple Tower of Babel simulator using data structures from CMSC 123
 
 ## Running the Program
